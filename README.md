@@ -1,7 +1,5 @@
 # To-Do List Application
 
-#### Video Demo:https://youtu.be/nXT2b-i7I5Q
-
 #### Description:
 
 This project is a simple To-Do List Application implemented in Python. The application allows users to add tasks, mark tasks as complete, and view the list of tasks. The program is designed to be run from the command line and provides a user-friendly interface for managing tasks.
